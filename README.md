@@ -1,6 +1,7 @@
 # Data-Science-Project
  
 1) Kaggle 데이터 경진대회 (포트폴리오 첨부)
+
 ㆍPetFinder.my Adoption Prediction 
    - 대회내용: 유기동물 보호소의 동물들이 얼마나 빨리 입양될지 예측
 
